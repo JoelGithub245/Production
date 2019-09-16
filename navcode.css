@@ -1,0 +1,21 @@
+*{margin: 0px; padding: 0px;}
+
+#Namenav{border-bottom: black solid 1px; background: rgba(252, 244, 128, 0.685); transition: 1s;}
+
+#logotipo{ margin-right: 20px;}
+
+#caja{height: 700px;}
+
+#img{ height: 100%; width: 100%}
+
+
+#Leftbar{ width: 200px; transition: 1s;}
+
+#Rightbar{border:  4px;}
+
+#Barracentral{border:  1px;}
+ #ul1{border: solid 1px;}
+
+
+#searchpc{background: rgb(255, 255, 255);}
+#searchpc:hover{background: green; transition: 0.5s;}
